@@ -22,8 +22,8 @@ The dataset used for training the model will consist of healthcare-specific text
 2. **Deploy the Fine-tuned Model**: Deploy the fine-tuned model on AWS to make it accessible for generating text responses.
 3. **Test and Evaluate the Model**: Test the fine-tuned model for its responses to healthcare-related queries and text-generation tasks.
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="Screenshot (1281).png" alt="Example6" width="600" height="400" style="margin: 5px;"/>
-    <img src="Screenshot (1280).png" alt="Example7" width="600" height="400" style="margin: 5px;"/>
+    <img src="Screenshot (1281).png" alt="Example6" style="margin: 5px;"/>
+    <img src="Screenshot (1280).png" alt="Example7" style="margin: 5px;"/>
 </div>
 ## Project Impact
 This project will contribute to the development of AI-driven solutions in the healthcare domain, enhancing customer experience and improving information delivery in healthcare applications.
